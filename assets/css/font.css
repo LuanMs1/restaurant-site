@@ -1,0 +1,25 @@
+@import url(//db.onlinewebfonts.com/c/79e4dc6a81171b1523795cb6b2bc7b2f?family=Avenir+LT+Pro+55+Roman);
+@import url(//db.onlinewebfonts.com/c/116af611cbcd9e4bada60b4e700430c1?family=Avenir+Light);
+@font-face {font-family: "Avenir LT Pro 55 Roman"; 
+    src: url("//db.onlinewebfonts.com/t/79e4dc6a81171b1523795cb6b2bc7b2f.eot"); 
+    src: url("//db.onlinewebfonts.com/t/79e4dc6a81171b1523795cb6b2bc7b2f.eot?#iefix") 
+    format("embedded-opentype"), url("//db.onlinewebfonts.com/t/79e4dc6a81171b1523795cb6b2bc7b2f.woff2") 
+    format("woff2"), url("//db.onlinewebfonts.com/t/79e4dc6a81171b1523795cb6b2bc7b2f.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/79e4dc6a81171b1523795cb6b2bc7b2f.ttf") format("truetype"), 
+    url("//db.onlinewebfonts.com/t/79e4dc6a81171b1523795cb6b2bc7b2f.svg#Avenir LT Pro 55 Roman") format("svg"); 
+}
+@font-face {font-family: "Avenir Light"; src: url("//db.onlinewebfonts.com/t/116af611cbcd9e4bada60b4e700430c1.eot"); 
+    src: url("//db.onlinewebfonts.com/t/116af611cbcd9e4bada60b4e700430c1.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/116af611cbcd9e4bada60b4e700430c1.woff2") format("woff2"), 
+    url("//db.onlinewebfonts.com/t/116af611cbcd9e4bada60b4e700430c1.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/116af611cbcd9e4bada60b4e700430c1.ttf") format("truetype"), 
+    url("//db.onlinewebfonts.com/t/116af611cbcd9e4bada60b4e700430c1.svg#Avenir Light") format("svg"); 
+}
+
+.avenir-heavy{
+    font-family: Avenir LT Pro 55 Roman;
+}
+.aevnir-light{
+    font-family: avenir light;
+    font-size: 15px;
+}
